@@ -18,4 +18,5 @@ Projeto de análise de reclamações de consumidores com bancos e financeiras no
 ## Licença
 
 Licença MIT (MIT). Por favor leia o [arquivo da licença](LICENSE.md) para mais informações.
+
 Os arquivos .csv são disponibilizados pelo [Portal de dados do Ministério da Justiça](http://dados.mj.gov.br/) sob a [Creative Commons Attribution License (cc-by)](http://www.opendefinition.org/licenses/cc-by).
