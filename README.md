@@ -10,6 +10,9 @@ Projeto de análise de reclamações de consumidores com empresa de telecomunica
 
 - Python
     - Biblioteca Pandas
+    - Biblioteca Glob
+    - Biblioteca Matplotlib
+    - Biblioteca Seaborn
 
 ## Notebook
 
