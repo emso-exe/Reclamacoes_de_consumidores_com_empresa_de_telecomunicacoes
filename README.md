@@ -1,8 +1,8 @@
-# Análise de dados: Reclamações de consumidores com empresa de telecomunicações
+# 🔎 Análise de dados: Reclamações de consumidores com empresa de telecomunicações ☎️️
 
 Projeto de análise de reclamações de consumidores com empresa de telecomunicações no 1º semestre de 2021 com base nos dados (.csv) do site [consumidor.gov.br](https://www.consumidor.gov.br) disponibilizados pelo [Portal de dados do Ministério da Justiça](http://dados.mj.gov.br/).
 
-## Demanda do negócio
+## 📃 Demanda do negócio
 
 - Identificar público com maior insatisfação
 - Reduzir o número de reclamações
@@ -10,7 +10,7 @@ Projeto de análise de reclamações de consumidores com empresa de telecomunica
 - Obter a melhor nota em atendimento
 - Identificar os motivos das reclamações
 
-## Indagações a serem respondidas pela análise exploratória dos dados
+## ❓ Indagações a serem respondidas pela análise exploratória dos dados
 
 1. Qual a quantidade/percentual de reclamações por estado?
 2. Qual a quantidade/percentual de reclamações por sexo?
@@ -26,7 +26,7 @@ Projeto de análise de reclamações de consumidores com empresa de telecomunica
 12. Qual a quantidade/percentual das reclamações resolvidas, não resolvidas, não avaliadas e canceladas/encerradas?
 13. Qual o número/percentual de recusa de reclamações avaliadas como procedentes e improcedentes?
 
-## Tecnologias
+## 💻 Tecnologias
 
 - Python
     - Biblioteca Pandas
@@ -34,10 +34,10 @@ Projeto de análise de reclamações de consumidores com empresa de telecomunica
     - Biblioteca Matplotlib
     - Biblioteca Seaborn
 
-## Créditos
+## 💳 Créditos
 
 - [Estênio Mariano](https://github.com/emso-exe)
 
-## Licença
+## 🔖 Licença
 
 Licença MIT (MIT). Por favor leia o [arquivo da licença](LICENSE.md) para mais informações.
